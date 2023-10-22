@@ -6,7 +6,7 @@ import pymongo
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-client = pymongo.MongoClient("mongodb+srv://abhishek:abhi2345@cluster0.v70mrv2.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://@cluster0.v70mrv2.mongodb.net/?retryWrites=true&w=majority")
 
 db = client["practice_database"]
 
