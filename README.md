@@ -67,37 +67,37 @@
      - Data pipeline construction.
 
 **10. Deployment and Model Lifecycle:**
-    - **Model Deployment**
-      - Putting machine learning models into production.
-    - **Monitoring and Maintenance**
-      - Ensuring models perform well over time.
+   - **Model Deployment**
+     - Putting machine learning models into production.
+   - **Monitoring and Maintenance**
+     - Ensuring models perform well over time.
    
 **11. Business and Domain Knowledge:**
-    - **Understanding the Domain**
-      - Learning industry-specific terminology and challenges.
-    - **Business Acumen**
-      - Aligning data science goals with business objectives.
+   - **Understanding the Domain**
+     - Learning industry-specific terminology and challenges.
+   - **Business Acumen**
+     - Aligning data science goals with business objectives.
 
 **12. Communication and Visualization:**
-    - **Data Storytelling**
-      - Effectively communicating results to non-technical stakeholders.
-    - **Visualization Tools**
-      - Tools like Tableau, Power BI, or custom dashboards.
+   - **Data Storytelling**
+     - Effectively communicating results to non-technical stakeholders.
+   - **Visualization Tools**
+     - Tools like Tableau, Power BI, or custom dashboards.
 
 **13. Ethics and Bias:**
-    - **Data Ethics**
-      - Addressing ethical concerns in data science.
-    - **Bias and Fairness**
-      - Mitigating biases in models.
+   - **Data Ethics**
+     - Addressing ethical concerns in data science.
+   - **Bias and Fairness**
+     - Mitigating biases in models.
 
 **14. Continuous Learning:**
-    - **Stay Updated**
-      - Keep up with the latest advancements in data science.
+   - **Stay Updated**
+     - Keep up with the latest advancements in data science.
 
 **15. Specializations (Optional):**
-    - **Data Science Specializations**
-      - Consider diving deeper into areas like computer vision, reinforcement learning, or time series analysis.
+   - **Data Science Specializations**
+     - Consider diving deeper into areas like computer vision, reinforcement learning, or time series analysis.
 
 **16. Capstone Projects:**
-    - **Real-World Projects**
-      - Apply what you've learned to solve real data science problems.
+   - **Real-World Projects**
+     - Apply what you've learned to solve real data science problems.
