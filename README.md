@@ -1,9 +1,10 @@
 # Data Science Roadmap
 
 ## 1. Introduction to Data Science
-   - Overview of Data Science
-   - The Data Science Process
-   - Role of a Data Scientist
+   ### What is Data Science?
+   Understanding the role of data science in various industries.
+   ### Data Science vs. Related Fields
+   Distinguishing between data science, machine learning, and artificial intelligence.
 
 ## 2. Mathematics and Statistics
    - Linear Algebra
