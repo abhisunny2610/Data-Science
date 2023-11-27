@@ -7,7 +7,7 @@ or \
 
 **Examples:** Robots, Alexa, Self drivinf cars
 
-![image](./Maachine-Learning.webp "Data Science")
+![text](./Maachine-Learning.webp)
 
 
 
@@ -23,7 +23,7 @@ or \
 Some main types of machine learning algorithms are as follows:
 1. Supervised Machine Learning
 2. Unsupervised Machine Learning
-3. 3. Semi-Supervised Machine Learning
+3. Semi-Supervised Machine Learning
 4. Reinforcement Learning
 
 ![Types of machine Learning](./Types-of-Machine-Leaning-(3).gif)
@@ -35,8 +35,8 @@ Some main types of machine learning algorithms are as follows:
 **Example**: Consider a scenario where you have to build an image classifier to differentiate between cats and dogs. If you feed the datasets of dogs and cats labelled images to the algorithm, the machine will learn to classify between a dog or a cat from these labeled images. When we input new dog or cat images that it has never seen before, it will use the learned algorithms and predict whether it is a dog or a cat. This is how supervised learning works, and this is particularly an image classification.
 
 ### There are two main categories of supervised learning that are mentioned below:
-1. Classification - work on categorizal data
-2. Regression - work on continuous data
+1. `Classification` - work on categorizal data
+2. `Regression` - work on continuous data
    
 ## 2. Unsupervised Machine Learning
 **Unsupervised Learning** is a type of machine learning technique in which an algorithm discovers patterns and relationships using unlabeled data. Unlike supervised learning, unsupervised learning doesn't involve providing the algorithm with labeled target outputs. The primary goals of unsupervised learning is often to discover hidden patterns, similarities, or clusters within the data, which can then be used for various purposes, such as data exploration, visualization, dimensionality reduction, and more.
@@ -45,8 +45,8 @@ Some main types of machine learning algorithms are as follows:
 
 There are two main categories of unsupervised learning that are mentioned below:
 
-1. Clustering - gropus similar data points into clusters.
-2. Dimensionality Reduction - Reduce the dimensionality of data while preserving its essential information.
+1. `Clustering` - gropus similar data points into clusters.
+2. `Dimensionality Reduction` - Reduce the dimensionality of data while preserving its essential information.
 
 
 ## 3. Semi-Supervised Learning
