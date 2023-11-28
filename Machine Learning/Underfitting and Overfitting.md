@@ -38,27 +38,24 @@ Overcomplicating simpler problems: A model with a high variance means the model 
 
 
 **Overfitting** \
-Train -->  Model is trained --> Accuracy 95%
-Test --> Model is tested --> Accuracy 60%
-
+Train -->  Model is trained --> Accuracy 95% \
+Test --> Model is tested --> Accuracy 60% \
 low bias\
 high variance
 
 **Underfitting** \
-Train -->  Model is trained --> Accuracy 55%
-Test --> Model is tested --> Accuracy 50%
-
+Train -->  Model is trained --> Accuracy 55% \
+Test --> Model is tested --> Accuracy 50% \
 high bias\
 high variance
 
 **Generalized Model** \
-Train -->  Model is trained --> Accuracy 95%
-Test --> Model is tested --> Accuracy 90+%
-
+Train -->  Model is trained --> Accuracy 95% \
+Test --> Model is tested --> Accuracy 90+% \
 low bias\
 low variance
 
 
-bias -> train data
+bias -> train data \
 variance -> test data
 
