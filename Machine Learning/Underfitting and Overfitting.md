@@ -32,5 +32,33 @@ A model with high Variance will have a tendency to be overly complex. This cause
 Suppose the model with high Variance will have very high training accuracy (or very low training loss), but it will have a low testing accuracy (or a low testing loss). 
 
 Overcomplicating simpler problems: A model with a high variance means the model is overly complex and tries to fit a much more complex curve to a relatively simpler data. The model is thus capable of solving complex problems but incapable of solving simple problems efficiently.
+
 !["image](image5.png)
+
+
+
+**Overfitting** \
+Train -->  Model is trained --> Accuracy 95%
+Test --> Model is tested --> Accuracy 60%
+
+low bias\
+high variance
+
+**Underfitting** \
+Train -->  Model is trained --> Accuracy 55%
+Test --> Model is tested --> Accuracy 50%
+
+high bias\
+high variance
+
+**Generalized Model** \
+Train -->  Model is trained --> Accuracy 95%
+Test --> Model is tested --> Accuracy 90+%
+
+low bias\
+low variance
+
+
+bias -> train data
+variance -> test data
 
